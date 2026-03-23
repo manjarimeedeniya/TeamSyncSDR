@@ -15,7 +15,7 @@ The system was first developed and validated as a **GNU Radio simulation** (mid-
 
 ## Team Members
 
-| Name | Index Number |
+| Name | GitHub Links |
 |------|-------------|
 | Jayaweera N.S | [Index] |
 | Manatunga K.D | [Index] |
