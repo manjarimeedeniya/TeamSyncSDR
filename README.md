@@ -17,7 +17,7 @@ The system was first developed and validated as a **GNU Radio simulation** (mid-
 
 | Name | GitHub Links |
 |------|-------------|
-| Jayaweera N.S | [Index] |
+| Jayaweera N.S | https://github.com/NisalJayaweera |
 | Manatunga K.D | [Index] |
 | Meedeniya M.M.H | [Index] |
 | Ranawaka R.A.G.K | https://github.com/Gaveesha723 |
