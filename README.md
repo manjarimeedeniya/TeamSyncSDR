@@ -20,7 +20,7 @@ The system was first developed and validated as a **GNU Radio simulation** (mid-
 | Jayaweera N.S | https://github.com/NisalJayaweera |
 | Manatunga K.D | https://github.com/KaveeDiv23 |
 | Meedeniya M.M.H | https://github.com/manjarimeedeniya |
-| Ranawaka R.A.G.K | https://github.com/Gaveesha723 |
+| Ranawaka R.A.G.K. | https://github.com/Gaveesha723 |
 
 ---
 
